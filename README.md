@@ -1,4 +1,4 @@
-# Indian Sign Language Recognition using CNN-BiLSTM
+# Live Continuous Sign Language Recognition Using CNN, BiLSTM, and NLP for Indian Sign Language 
 
 An AI-powered deep learning system for recognizing Indian Sign Language gestures using Convolutional Neural Networks (CNN) and Bidirectional Long Short-Term Memory (BiLSTM) networks to improve communication accessibility.
 
